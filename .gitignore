@@ -1,0 +1,4 @@
+# Local editor, system and generated files
+.DS_Store
+ga_qua_duong
+*.o
