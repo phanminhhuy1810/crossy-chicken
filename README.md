@@ -4,7 +4,7 @@ A C++ terminal game built with ncurses. Guide a chicken across eight traffic lan
 
 The current version includes scoring, three lives per level, collision detection, and a restart option after game over. The game uses text sprites and Vietnamese interface labels.
 
-This was an early programming exercise developed with AI assistance.
+An early C++ programming exercise focused on object-oriented design, a terminal game loop and collision handling.
 
 ## Build and run
 
